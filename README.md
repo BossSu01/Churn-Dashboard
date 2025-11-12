@@ -21,24 +21,27 @@ Analyze customer data from a retail bank to identify key factors driving custome
 ---
 
 ### **4.) 💼Key Metrics Displayed:**
-**Churn Rate (%)**  20.4%: Indicates the percentage of customers who have left the bank.
-**Total Customers**  10K: Total number of customers analyzed.
-**Average Balance**  76.49K: The mean account balance of all customers.
-**Active Rate (%)**  51.5%: Percentage of active customers who continue using the bank’s services.
+**- Churn Rate (%)**  20.4%: Indicates the percentage of customers who have left the bank.
+
+**- Total Customers**  10K: Total number of customers analyzed.
+
+**- Average Balance**  76.49K: The mean account balance of all customers.
+
+**- Active Rate (%)**  51.5%: Percentage of active customers who continue using the bank’s services.
 
 ---
 
 ### **5.) 📈Visualizations:**
-**Churn vs Not Churn:** Pie chart showing the proportion of customers who stayed vs. left.
+**- Churn vs Not Churn:** Pie chart showing the proportion of customers who stayed vs. left.
 
-**Churned Customers by Gender:** Donut chart revealing that female customers churn slightly more often than males.
+**- Churned Customers by Gender:** Donut chart revealing that female customers churn slightly more often than males.
 
-**Count of Exited by Age Group:** This chart visualizes the number of customers by age group, separated by gender.
+**- Count of Exited by Age Group:** This chart visualizes the number of customers by age group, separated by gender.
 Originally, the chart used the field “Count of Exited”, which counts all customer records — meaning it included both customers who stayed (Exited = 0) and those who left (Exited = 1).
 
-**Tenure Chart:** This line chart shows the total number of customers distributed across different tenure periods (the number of years a customer has been with the bank).
+**- Tenure Chart:** This line chart shows the total number of customers distributed across different tenure periods (the number of years a customer has been with the bank).
 
-**Country Filter (France, Germany, Spain):** Allows users to explore churn patterns by geography.
+**- Country Filter (France, Germany, Spain):** Allows users to explore churn patterns by geography.
 
 ---
 
