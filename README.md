@@ -30,10 +30,14 @@ Analyze customer data from a retail bank to identify key factors driving custome
 
 ### **5.) 📈Visualizations:**
 **Churn vs Not Churn:** Pie chart showing the proportion of customers who stayed vs. left.
+
 **Churned Customers by Gender:** Donut chart revealing that female customers churn slightly more often than males.
+
 **Count of Exited by Age Group:** This chart visualizes the number of customers by age group, separated by gender.
 Originally, the chart used the field “Count of Exited”, which counts all customer records — meaning it included both customers who stayed (Exited = 0) and those who left (Exited = 1).
+
 **Tenure Chart:** This line chart shows the total number of customers distributed across different tenure periods (the number of years a customer has been with the bank).
+
 **Country Filter (France, Germany, Spain):** Allows users to explore churn patterns by geography.
 
 ---
@@ -51,5 +55,5 @@ This analysis enables financial institutions to identify high-risk customer segm
 ---
 
 ### **8.) 📸Screenshots
-https://github.com/BossSu01/Churn-Dashboard/blob/main/messageImage_1762956129659.jpg
+
 
