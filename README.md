@@ -58,5 +58,7 @@ This analysis enables financial institutions to identify high-risk customer segm
 ---
 
 ### **8.) 📸Screenshots
-
+![Churn Dashboard Screenshot]([churn_dashboard.jpg](https://github.com/BossSu01/Churn-Dashboard/blob/main/messageImage_1762956129659.jpg
+)
+*Power BI Dashboard visualizing key churn metrics, customer demographics, and retention insights.*
 
